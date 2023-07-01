@@ -6,23 +6,23 @@ body {
 }
 
 .container {
-  display: flex;
-  justify-content: center;
   align-items: center;
+  display: flex;
   height: 100vh;
+  justify-content: center;
   width: 100vw;
 }
 
 .card {
+  align-items: center;
+  align-self: center;
   background: hsl(0, 0%, 100%);
+  border-radius: 18px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
-  align-self: center;
-  text-align: center;
   padding: 15px;
-  border-radius: 18px;
+  text-align: center;
 }
 
 .image-container img {
@@ -32,8 +32,8 @@ body {
 
 .text-container {
   flex-wrap: wrap;
-  width: 250px;
   margin: 10px;
+  width: 250px;
 }
 
 .text-container h1 {
@@ -49,9 +49,9 @@ body {
 }
 
 .attribution {
+  color: hsl(220, 15%, 55%);
   font-size: 10px;
   text-align: center;
-  color: hsl(220, 15%, 55%);
 }
 
 .attribution a {
