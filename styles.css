@@ -1,5 +1,4 @@
-@import @import
-  url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
 body {
   background: hsl(212, 45%, 89%);
@@ -39,7 +38,7 @@ body {
 
 .text-container h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
 }
 
@@ -47,4 +46,14 @@ body {
   color: hsl(220, 15%, 55%);
   font-size: 15px;
   font-weight: 400;
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+
+.attribution a {
+  color: hsl(219, 65%, 39%);
 }
