@@ -30,7 +30,7 @@ A QR Code component comprised of a card, with the code, a title and a paragraph.
 
 ## Author
 
-- Website - [Rodrigo de Lascio](https://rodrigodelascio.tech/)
+- Website - [Rodrigo de Lascio](https://rodrigodelascio.co.uk/)
 - Frontend Mentor - [@rodrigodelascio](https://www.frontendmentor.io/profile/rodrigodelascio)
 - GitHub - [@rodrigodelascio](https://github.com/rodrigodelascio)
 - LinkedIn - [@rodrigodelascio](https://www.linkedin.com/in/rodrigo-de-lascio/)
