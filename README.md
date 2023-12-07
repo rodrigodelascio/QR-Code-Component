@@ -1,28 +1,25 @@
 # QR-Code-Component
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
 
 A QR Code component comprised of a card, with the code, a title and a paragraph.
 
-### Screenshot
+## Screenshot
 
 ![](./images/screenshot-qr-code-component.png)
 
-### Links
+## Links
 
 - Solution: [URL](https://www.frontendmentor.io/solutions/qr-code-component-sPzbQDRmrk)
 - Live Site: [URL](https://rodrigodelascio.github.io/QR-Code-Component/)
 
-## My process
-
-### Built with
+## Built with
 
 - HTML5
 - CSS custom properties
