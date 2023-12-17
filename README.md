@@ -16,7 +16,6 @@ A QR Code component comprised of a card, with the code, a title and a paragraph.
 
 ## Links
 
-- Solution: [URL](https://www.frontendmentor.io/solutions/qr-code-component-sPzbQDRmrk)
 - Live Site: [URL](https://rodrigodelascio.github.io/QR-Code-Component/)
 
 ## Built with
